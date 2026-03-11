@@ -1,6 +1,8 @@
 = Windows 11 Grundkurs – Kursprogramm
-Jürg Luthiger
-2026-03-20
+:author_1: Pro Senectute Luzern
+:author_2: Jürg Luthiger
+:revnumber: 1.0
+
 :lang: de
 :toc:
 :toc-title: Inhaltsverzeichnis
@@ -69,7 +71,7 @@ Der *Desktop* ist der Startbildschirm von Windows 11 – wie eine digitale Arbei
 *Wichtige Begriffe:*
 
 * *Symbol (Icon):* Kleines Bild, das ein Programm oder eine Datei darstellt
-* *Hintergrundild (Wallpaper):* Das Bild, das den Desktop ziert
+* *Hintergrundbild (Wallpaper):* Das Bild, das den Desktop ziert
 * *Uhr:* Wird unten rechts in der Taskleiste angezeigt
 ====
 
@@ -285,7 +287,7 @@ Das *WLAN-Symbol* befindet sich unten rechts in der Taskleiste (sieht aus wie Fu
 
 [NOTE]
 ====
-Das Mausrad: Drehen Sie das Rad nach vorne, um nach oben zu scrollen, nach hinten für nach unten.
+Das Mausrad: Drehen Sie das Rad nach vorne, um nach oben zu scrollen, nach hinten, um nach unten zu scrollen.
 ====
 
 ---
@@ -586,7 +588,7 @@ Für OneDrive benötigen Sie ein Microsoft-Konto (kostenlos). Der Kursleiter hil
 . Melden Sie sich mit Ihrem Microsoft-Konto an (E-Mail und Passwort).
   ** Die OneDrive-Webseite zeigt Ihre Dateien und Ordner.
 . Suchen Sie den Ordner *Kurs* – er sollte sichtbar sein.
-. Klicken Sie auf *Brief.txt*, um es in der Vorschau zu öffnen.
+. Klicken Sie auf *Brief.txt*, um sie in der Vorschau zu öffnen.
 
 [TIP]
 ====

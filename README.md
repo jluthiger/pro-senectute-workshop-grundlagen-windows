@@ -13,3 +13,4 @@ In diesem Kurs lernen Sie, wie Sie mit Windows 11 souverän arbeiten. Sie richte
 
 ## Kursunterlagen
 
+Die Kursunterlagen finden Sie hier.

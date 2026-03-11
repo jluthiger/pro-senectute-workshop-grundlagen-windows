@@ -13,4 +13,4 @@ In diesem Kurs lernen Sie, wie Sie mit Windows 11 souverän arbeiten. Sie richte
 
 ## Kursunterlagen
 
-Die Kursunterlagen finden Sie [Website](https://jluthiger.github.io/pro-senectute-workshop-grundlagen-windows/).
+Die Kursunterlagen finden Sie unter [Website](https://jluthiger.github.io/pro-senectute-workshop-grundlagen-windows/).

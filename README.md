@@ -1,6 +1,6 @@
 # Windows – Grundlagen
 
-Willkommen zum Workshop rund das macOS-Betriebssystem.
+Willkommen zum Workshop rund umd das Windows 11 Betriebssystem.
 
 ## Über den Workshop
 
@@ -13,4 +13,4 @@ In diesem Kurs lernen Sie, wie Sie mit Windows 11 souverän arbeiten. Sie richte
 
 ## Kursunterlagen
 
-Die Kursunterlagen finden Sie hier.
+Die Kursunterlagen finden Sie [Website](https://jluthiger.github.io/pro-senectute-workshop-grundlagen-windows/).

@@ -113,16 +113,16 @@ Wenn etwas nicht sichtbar ist, kann der Kursleiter helfen.
 
 ---
 
-==== Übung 2 – Startmenü öffnen und Taschenrechner starten
+==== Übung 2 – Startmenü öffnen und Rechner starten
 
 *Ziel:* Das Startmenü bedienen und ein Programm starten.
 
 . Klicken Sie auf das *Windows-Symbol* in der Taskleiste.
   ** Das Startmenü öffnet sich.
 . Schauen Sie sich die angehefteten Apps an.
-. Geben Sie im Suchfeld oben «Taschenrechner» ein.
-. Klicken Sie auf *Taschenrechner* in den Suchergebnissen.
-  ** Der Taschenrechner öffnet sich als Fenster.
+. Geben Sie im Suchfeld oben «Rechner» ein.
+. Klicken Sie auf *Rechner* in den Suchergebnissen.
+  ** Der Rechner öffnet sich als Fenster.
 . Geben Sie eine einfache Rechnung ein, z. B. kbd:[5] kbd:[+] kbd:[3] kbd:[=].
 
 ---
@@ -136,7 +136,7 @@ Wenn etwas nicht sichtbar ist, kann der Kursleiter helfen.
 . Suchen Sie *Editor* in der Liste.
 . Klicken Sie mit der *rechten Maustaste* auf *Editor*.
 . Wählen Sie *An „Start" anheften*.
-. Wiederholen Sie die Schritte 3–5 für *Fotos* und *Microsoft Edge*.
+. Wiederholen Sie die Schritte 3–5 für *Fotoanzeige* und *Microsoft Edge*.
 
 [TIP]
 ====
@@ -153,8 +153,8 @@ Angeheftete Apps erscheinen oben im Startmenü und sind schnell erreichbar.
 . Lesen Sie die angezeigte Uhrzeit vor.
 . Zeigen Sie mit der Maus auf die Uhrzeit – das aktuelle Datum erscheint.
 . Klicken Sie einmal auf die Uhrzeit.
-  ** Ein Kalender und eine Uhr werden eingeblendet.
-. Klicken Sie irgendwo auf den Desktop, um den Kalender zu schliessen.
+  ** Ein Fenster für aktuelle Benachrichtigungen des Systems wird eingeblendet.
+. Klicken Sie irgendwo auf den Desktop, um das Fenster zu schliessen.
 
 ---
 
@@ -193,11 +193,11 @@ Die Grösse lässt sich ändern, indem man den *Fensterrand* mit der Maus zieht.
 
 ---
 
-==== Übung 5 – Taschenrechner öffnen und verschieben
+==== Übung 5 – Rechner öffnen und verschieben
 
 *Ziel:* Ein Fenster verschieben und die Grösse ändern.
 
-. Starten Sie den *Taschenrechner* (Startmenü → Taschenrechner).
+. Starten Sie den *Rechner* (Startmenü → Rechner).
 . Klicken Sie auf die *Titelleiste* (die obere Leiste des Fensters) und halten Sie die Maustaste gedrückt.
 . Ziehen Sie das Fenster in die Mitte des Bildschirms und lassen Sie die Maustaste los.
 . Zeigen Sie mit der Maus auf einen *Fensterrand*, bis ein Doppelpfeil erscheint.
@@ -214,8 +214,8 @@ Die Grösse lässt sich ändern, indem man den *Fensterrand* mit der Maus zieht.
 . Ziehen Sie das Fenster ganz an den *rechten Bildschirmrand*.
   ** Windows zeigt einen blauen Bereich – lassen Sie die Maus los.
   ** Edge füllt die rechte Hälfte des Bildschirms.
-. Klicken Sie nun links auf *Taschenrechner*.
-  ** Der Taschenrechner füllt die linke Hälfte.
+. Klicken Sie nun links auf *Rechner*.
+  ** Der Rechner füllt die linke Hälfte.
 . Sie sehen jetzt zwei Fenster nebeneinander.
 
 ---
@@ -224,9 +224,9 @@ Die Grösse lässt sich ändern, indem man den *Fensterrand* mit der Maus zieht.
 
 *Ziel:* Zwischen zwei offenen Fenstern hin- und herwechseln.
 
-. Stellen Sie sicher, dass Taschenrechner und Edge geöffnet sind.
-. Klicken Sie in der *Taskleiste* auf das Taschenrechner-Symbol.
-  ** Der Taschenrechner wird aktiv (in den Vordergrund geholt).
+. Stellen Sie sicher, dass Rechner und Edge geöffnet sind.
+. Klicken Sie in der *Taskleiste* auf das Rechner-Symbol.
+  ** Der Rechner wird aktiv (in den Vordergrund geholt).
 . Klicken Sie auf das *Edge-Symbol* in der Taskleiste.
   ** Edge kommt in den Vordergrund.
 . Drücken Sie kbd:[Alt+Tab] (Alt-Taste halten, Tab-Taste drücken).

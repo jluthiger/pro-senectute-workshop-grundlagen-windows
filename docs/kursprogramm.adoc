@@ -1,7 +1,7 @@
 = Windows 11 Grundkurs – Kursprogramm
 :author_1: Pro Senectute Luzern
 :author_2: Jürg Luthiger
-:revnumber: 1.0
+:revnumber: 1.1
 
 :lang: de
 :toc:
@@ -158,11 +158,44 @@ Angeheftete Apps erscheinen oben im Startmenü und sind schnell erreichbar.
 
 ---
 
+==== Übung 5 – App in der Taskleiste anheften
+
+*Ziel:* Eine App dauerhaft in der Taskleiste platzieren, damit sie immer mit einem Klick erreichbar ist.
+
+. Öffnen Sie das Startmenü (Windows-Symbol klicken).
+. Tippen Sie «Rechner» in das Suchfeld.
+  ** Der Rechner erscheint in den Suchergebnissen.
+. Klicken Sie mit der *rechten Maustaste* auf *Rechner*.
+. Wählen Sie *An Taskleiste anheften*.
+  ** Der Rechner erscheint jetzt als Symbol in der Taskleiste unten.
+. Schliessen Sie das Startmenü (kbd:[Escape] oder irgendwo auf den Desktop klicken).
+. Klicken Sie auf das *Rechner-Symbol* in der Taskleiste.
+  ** Der Rechner öffnet sich sofort – ohne Umweg über das Startmenü.
+
+[TIP]
+====
+Um eine App wieder aus der Taskleiste zu entfernen: Rechtsklick auf das Symbol in der Taskleiste → *Von Taskleiste lösen*.
+====
+
+---
+
 === Pause (10:30–10:45)
 
 ---
 
-=== Modul 2: Mit Fenstern arbeiten (10:45–11:30)
+=== Modul 2: WLAN, Fenster und Browser (10:45–11:30)
+
+==== Theorie: WLAN-Verbindung
+
+Das *WLAN-Symbol* befindet sich unten rechts in der Taskleiste (sieht aus wie Funkwellen oder ein Schild). Darüber können Sie:
+
+* Sehen, ob Sie verbunden sind
+* Sich mit einem WLAN-Netzwerk verbinden
+
+[TIP]
+====
+*WLAN* (auch «WiFi» genannt) ist eine kabellose Internetverbindung. Das Passwort erhalten Sie vom Kursleiter oder steht auf Ihrem Router.
+====
 
 ==== Theorie: Fenster verstehen
 
@@ -193,7 +226,27 @@ Die Grösse lässt sich ändern, indem man den *Fensterrand* mit der Maus zieht.
 
 ---
 
-==== Übung 5 – Rechner öffnen und verschieben
+==== Übung 6 – WLAN-Status prüfen und verbinden
+
+*Ziel:* WLAN-Symbol finden, Verbindungsstatus prüfen und mit dem Kursnetzwerk verbinden.
+
+. Schauen Sie unten rechts in die Taskleiste.
+. Klicken Sie auf das *WLAN-Symbol* (Funkwellen-Symbol oder Schild).
+  ** Es öffnet sich das Schnelleinstellungen-Fenster.
+. Prüfen Sie: Steht ein Häkchen bei WLAN? Ist ein Netzwerkname sichtbar?
+. Ist kein Netzwerk verbunden: Klicken Sie auf den *Pfeil* neben WLAN.
+  ** Eine Liste verfügbarer Netzwerke erscheint.
+. Wählen Sie das Kursnetzwerk aus, geben Sie das Passwort ein und klicken Sie auf *Verbinden*.
+. Drücken Sie kbd:[Escape], um das Fenster zu schliessen.
+
+[NOTE]
+====
+Sobald WLAN verbunden ist, erscheint das Symbol als ausgefülltes Fächer-Symbol. Erst jetzt funktioniert der Browser mit Internet.
+====
+
+---
+
+==== Übung 7 – Rechner öffnen und verschieben
 
 *Ziel:* Ein Fenster verschieben und die Grösse ändern.
 
@@ -205,22 +258,25 @@ Die Grösse lässt sich ändern, indem man den *Fensterrand* mit der Maus zieht.
 
 ---
 
-==== Übung 6 – Fenster einrasten (Snap)
+==== Übung 8 – Fenster einrasten (Snap) mit Edge und Webseite
 
-*Ziel:* Ein Fenster auf halber Bildschirmbreite einrasten.
+*Ziel:* Den Browser mit einer Webseite öffnen und zwei Fenster nebeneinander einrasten.
 
 . Öffnen Sie den *Microsoft Edge* Browser (Startmenü → Microsoft Edge).
+. Klicken Sie in die *Adressleiste* (langer Balken oben) und tippen Sie: `www.srf.ch`
+. Drücken Sie kbd:[Enter].
+  ** Die SRF-Webseite wird geladen.
 . Klicken Sie auf die *Titelleiste* von Edge und halten Sie gedrückt.
 . Ziehen Sie das Fenster ganz an den *rechten Bildschirmrand*.
   ** Windows zeigt einen blauen Bereich – lassen Sie die Maus los.
   ** Edge füllt die rechte Hälfte des Bildschirms.
 . Klicken Sie nun links auf *Rechner*.
   ** Der Rechner füllt die linke Hälfte.
-. Sie sehen jetzt zwei Fenster nebeneinander.
+. Sie sehen jetzt zwei Fenster nebeneinander: links Rechner, rechts eine Webseite.
 
 ---
 
-==== Übung 7 – Zwischen Fenstern wechseln
+==== Übung 9 – Zwischen Fenstern wechseln
 
 *Ziel:* Zwischen zwei offenen Fenstern hin- und herwechseln.
 
@@ -235,55 +291,54 @@ Die Grösse lässt sich ändern, indem man den *Fensterrand* mit der Maus zieht.
 
 ---
 
-=== Modul 3: WLAN und Internet (11:30–12:00)
-
-==== Theorie: WLAN-Verbindung
-
-Das *WLAN-Symbol* befindet sich unten rechts in der Taskleiste (sieht aus wie Funkwellen oder ein Schild). Darüber können Sie:
-
-* Sehen, ob Sie verbunden sind
-* Sich mit einem WLAN-Netzwerk verbinden
-
-[TIP]
-====
-*WLAN* (auch «WiFi» genannt) ist eine kabellose Internetverbindung. Das Passwort erhalten Sie vom Kursleiter oder steht auf Ihrem Router.
-====
+=== Modul 3: Mit dem Browser arbeiten (11:30–12:00)
 
 ==== Theorie: Microsoft Edge
 
-*Microsoft Edge* ist der eingebaute *Webbrowser* von Windows 11. Mit ihm rufen Sie Webseiten auf:
+*Microsoft Edge* ist der eingebaute *Webbrowser* von Windows 11. Mit ihm rufen Sie Webseiten auf.
 
-. Edge öffnen (Symbol in der Taskleiste oder im Startmenü)
-. Adresse in die *Adressleiste* (oben) eintippen
-. kbd:[Enter] drücken
+*Wichtige Bereiche im Browser:*
+
+[cols="2,4", options="header"]
+|===
+| Bereich | Funktion
+
+| *Adressleiste* (oben)
+| Webadresse (URL) eintippen und kbd:[Enter] drücken
+
+| *Zurück-Pfeil* (←)
+| Zur vorherigen Seite zurückgehen
+
+| *Aktualisieren* (↻)
+| Seite neu laden
+
+| *Tabs* (Reiter oben)
+| Mehrere Webseiten gleichzeitig geöffnet halten
+|===
+
+[TIP]
+====
+Eine *Webadresse* beginnt meist mit `www.` und endet auf `.ch`, `.de` oder `.com`. Sie müssen `https://` nicht eintippen – der Browser ergänzt das automatisch.
+====
 
 ---
 
-==== Übung 8 – WLAN-Status prüfen
+==== Übung 10 – Webseiten aufrufen und navigieren
 
-*Ziel:* WLAN-Symbol finden und Verbindungsstatus prüfen.
+*Ziel:* Verschiedene Webseiten besuchen und im Browser navigieren.
 
-. Schauen Sie unten rechts in die Taskleiste.
-. Klicken Sie auf das *WLAN-Symbol* (Funkwellen-Symbol oder Schild).
-  ** Es öffnet sich das Schnelleinstellungen-Fenster.
-. Prüfen Sie: Steht ein Häkchen bei WLAN? Ist ein Netzwerkname sichtbar?
-. Ist kein Netzwerk verbunden: Klicken Sie auf den *Pfeil* neben WLAN.
-  ** Eine Liste verfügbarer Netzwerke erscheint.
-. Wählen Sie das Kursnetzwerk aus, geben Sie das Passwort ein und klicken Sie auf *Verbinden*.
-. Drücken Sie kbd:[Escape], um das Fenster zu schliessen.
-
----
-
-==== Übung 9 – Webseite aufrufen
-
-*Ziel:* Den Browser öffnen und eine Webseite besuchen.
-
-. Klicken Sie auf das *Edge-Symbol* in der Taskleiste (blauer Wirbel) oder im Startmenü.
-. Edge öffnet sich. Klicken Sie in die *Adressleiste* (langer Balken ganz oben).
-. Tippen Sie: `www.pro-senectute.ch`
+. Öffnen Sie *Microsoft Edge* (Startmenü oder Taskleiste).
+. Klicken Sie in die *Adressleiste* und tippen Sie: `www.pro-senectute.ch`
 . Drücken Sie kbd:[Enter].
   ** Die Webseite von Pro Senectute wird geladen.
-. Schauen Sie sich die Seite an – scrollen Sie mit dem Mausrad nach unten.
+. Scrollen Sie mit dem *Mausrad* nach unten, um die Seite zu erkunden.
+. Klicken Sie auf einen *Link* auf der Seite (unterstrichener oder farbiger Text).
+  ** Eine neue Seite lädt.
+. Klicken Sie auf den *Zurück-Pfeil* (←) oben links.
+  ** Sie kehren zur vorherigen Seite zurück.
+. Tippen Sie nun in die Adressleiste: `www.meteoschweiz.admin.ch`
+. Drücken Sie kbd:[Enter].
+  ** Das Wetterportal von MeteoSchweiz öffnet sich.
 
 [NOTE]
 ====
@@ -298,8 +353,10 @@ Das Mausrad: Drehen Sie das Rad nach vorne, um nach oben zu scrollen, nach hinte
 
 * [x] Desktop, Taskleiste und Startmenü kennen
 * [x] Apps starten und im Startmenü anheften
+* [x] App in der Taskleiste anheften für schnellen Zugriff
 * [x] Fenster öffnen, verschieben, einrasten und wechseln
-* [x] WLAN prüfen und Webseite aufrufen
+* [x] WLAN verbinden und Internetverbindung herstellen
+* [x] Webseiten aufrufen und im Browser navigieren
 
 *Hausaufgabe (freiwillig):* Öffnen Sie zu Hause das Startmenü und starten Sie zwei verschiedene Apps.
 
@@ -357,6 +414,61 @@ Im Datei-Explorer sehen Sie links den *Navigationsbereich* (Schnellzugriff, Dies
 | Rechtsklick → *Löschen* (wandert in den Papierkorb)
 |===
 
+==== Theorie: Sinnvolle Dateinamen und Ordnerstruktur
+
+Ein guter Dateiname hilft Ihnen, Dateien schnell wiederzufinden – auch nach Wochen oder Monaten.
+
+*Regeln für sinnvolle Dateinamen:*
+
+. *Beschreibend:* Der Name soll den Inhalt erklären.
+. *Datum angeben:* Das Format `JJJJ-MM-TT` sortiert automatisch chronologisch (z. B. `2026-03-21`).
+. *Keine Leerzeichen:* Verwenden Sie stattdessen den Unterstrich `_` oder Bindestrich `-`.
+. *Keine Sonderzeichen:* Vermeiden Sie `ä`, `ö`, `ü`, `é`, `&`, `#` usw. – manche Programme haben damit Mühe.
+
+[cols="3,3", options="header"]
+|===
+| Schlechter Name | Guter Name
+
+| `Dokument1.txt`
+| `2026-03-21_Brief_Mutter.txt`
+
+| `neu.docx`
+| `Steuern_2025_Abrechnung.docx`
+
+| `foto vom urlaub.jpg`
+| `2025-08_Urlaub_Mallorca.jpg`
+|===
+
+[TIP]
+====
+Legen Sie für jedes Thema einen eigenen Ordner an – zum Beispiel «Finanzen», «Arzt», «Familie». So behalten Sie den Überblick.
+====
+
+==== Theorie: USB-Stick
+
+Ein *USB-Stick* (auch «Memorystick» oder «Flashdrive» genannt) ist ein kleines, tragbares Speichermedium.
+
+*Vorteile:*
+* Kein Internet nötig
+* Einfach von einem Computer zum anderen mitnehmen
+* Günstig und weit verbreitet
+
+*USB-Stick anschliessen:*
+
+. Stecken Sie den USB-Stick in einen *USB-Anschluss* am Computer (Buchse an der Seite oder vorne).
+. Nach kurzer Zeit erscheint der Stick im *Datei-Explorer* unter «Dieser PC» als neues Laufwerk (z. B. «USB-Laufwerk (E:)»).
+
+*USB-Stick sicher entfernen:*
+
+. Klicken Sie unten rechts in der Taskleiste auf das *USB-Symbol* (Pfeil mit Stecker).
+. Wählen Sie *«[Name des Sticks] auswerfen»*.
+. Erst wenn die Meldung «Sicher entfernen» erscheint, ziehen Sie den Stick heraus.
+
+[WARNING]
+====
+*Wichtig:* Ziehen Sie den USB-Stick nie einfach heraus, während der Computer noch darauf zugreift! Das kann Daten beschädigen oder verloren gehen lassen. Immer zuerst sicher auswerfen.
+====
+
 ==== Theorie: Papierkorb
 
 Gelöschte Dateien landen zuerst im *Papierkorb* auf dem Desktop – sie sind noch nicht endgültig weg!
@@ -366,7 +478,7 @@ Gelöschte Dateien landen zuerst im *Papierkorb* auf dem Desktop – sie sind no
 
 ---
 
-==== Übung 10 – Ordner «Dokumente» öffnen
+==== Übung 11 – Ordner «Dokumente» öffnen
 
 *Ziel:* Den Datei-Explorer öffnen und zum Ordner «Dokumente» navigieren.
 
@@ -379,7 +491,7 @@ Gelöschte Dateien landen zuerst im *Papierkorb* auf dem Desktop – sie sind no
 
 ---
 
-==== Übung 11 – Neuen Ordner «Kurs» erstellen
+==== Übung 12 – Neuen Ordner «Kurs» erstellen
 
 *Ziel:* Einen neuen Ordner anlegen.
 
@@ -393,7 +505,7 @@ Gelöschte Dateien landen zuerst im *Papierkorb* auf dem Desktop – sie sind no
 
 ---
 
-==== Übung 12 – Datei in den Ordner «Kurs» kopieren
+==== Übung 13 – Datei in den Ordner «Kurs» kopieren
 
 *Ziel:* Eine vorhandene Datei kopieren und in einem anderen Ordner einfügen.
 
@@ -408,7 +520,7 @@ Gelöschte Dateien landen zuerst im *Papierkorb* auf dem Desktop – sie sind no
 
 ---
 
-==== Übung 13 – Datei umbenennen
+==== Übung 14 – Datei umbenennen
 
 *Ziel:* Den Namen einer Datei ändern.
 
@@ -425,7 +537,27 @@ Die Dateiendung (z. B. `.txt`, `.docx`) muss nicht geändert werden. Windows war
 
 ---
 
-==== Übung 14 – Datei löschen und wiederherstellen
+==== Übung 15 – Datei auf USB-Stick kopieren und Stick sicher entfernen
+
+*Ziel:* Einen USB-Stick anschliessen, eine Datei darauf kopieren und den Stick sicher entfernen.
+
+. Stecken Sie den *USB-Stick* in den USB-Anschluss des Computers.
+  ** Nach kurzer Zeit erscheint ein neues Laufwerk im Datei-Explorer (z. B. «USB-Laufwerk (E:)»).
+. Öffnen Sie den *Datei-Explorer* und navigieren Sie zu *Dokumente* → *Kurs*.
+. Klicken Sie mit der *rechten Maustaste* auf die Datei *Mein erstes Dokument*.
+. Wählen Sie *Kopieren*.
+. Klicken Sie links in der Navigation unter «Dieser PC» auf das *USB-Laufwerk*.
+. Klicken Sie mit der *rechten Maustaste* in den leeren Bereich.
+. Wählen Sie *Einfügen*.
+  ** Die Datei erscheint nun auf dem USB-Stick.
+. Schliessen Sie den Datei-Explorer.
+. Klicken Sie unten rechts in der Taskleiste auf das *USB-Symbol*.
+. Wählen Sie *«USB-Laufwerk auswerfen»*.
+  ** Warten Sie auf die Bestätigung, dann ziehen Sie den Stick heraus.
+
+---
+
+==== Übung 16 – Datei löschen und wiederherstellen
 
 *Ziel:* Eine Datei in den Papierkorb verschieben und danach wiederherstellen.
 
@@ -473,13 +605,16 @@ Beim ersten Speichern einer Datei erscheint der *Speichern-Dialog*:
 | *Dokumente* (lokal)
 | Nur auf diesem Computer gespeichert
 
+| *USB-Stick*
+| Portabel – einfach auf einen anderen Computer mitnehmen, kein Internet nötig
+
 | *OneDrive*
-| In der Cloud – auch von anderen Geräten zugänglich
+| In der Cloud – auch von anderen Geräten zugänglich, automatische Sicherung
 |===
 
 ---
 
-==== Übung 15 – Kurzen Brief im Editor schreiben
+==== Übung 17 – Kurzen Brief im Editor schreiben
 
 *Ziel:* Den Editor öffnen und einen Text eingeben.
 
@@ -504,7 +639,7 @@ Viele Grüsse
 
 ---
 
-==== Übung 16 – Brief speichern
+==== Übung 18 – Brief speichern
 
 *Ziel:* Den Brief unter «Dokumente» speichern.
 
@@ -523,7 +658,7 @@ Mit kbd:[Strg+S] können Sie eine bereits gespeicherte Datei schnell aktualisier
 
 ---
 
-==== Übung 17 – Brief schliessen und wieder öffnen
+==== Übung 19 – Brief schliessen und wieder öffnen
 
 *Ziel:* Den Editor schliessen und die Datei erneut öffnen.
 
@@ -541,27 +676,68 @@ Mit kbd:[Strg+S] können Sie eine bereits gespeicherte Datei schnell aktualisier
 
 ==== Theorie: Was ist OneDrive?
 
-*OneDrive* ist ein *Cloud-Speicher* von Microsoft. Das bedeutet:
+Stellen Sie sich vor, Sie haben ein *Schliessfach bei der Bank*. Dort lagern Sie wichtige Dokumente sicher auf. Sie können jederzeit hingehen und auf den Inhalt zugreifen – egal ob von zu Hause, aus dem Urlaub oder von einem anderen Ort. *OneDrive funktioniert genauso, nur für Ihre digitalen Dateien.*
 
-* Ihre Dateien werden auf Microsofts Servern gespeichert
-* Sie können von jedem Gerät (Computer, Tablet, Smartphone) darauf zugreifen
-* Dateien sind vor Datenverlust (z. B. bei Computerausfall) geschützt
+Wenn Sie eine Datei in OneDrive speichern, wird sie automatisch über das Internet auf einen grossen, sicheren Computer von Microsoft übertragen und dort aufbewahrt. Das nennt man *«Cloud»* – auf Deutsch «Wolke». Ihre Dateien schweben sozusagen sicher im Internet, und Sie können jederzeit darauf zugreifen.
 
-[TIP]
-====
-«Cloud» bedeutet «Wolke» – Ihre Dateien sind sozusagen «in der Wolke» gespeichert, also im Internet, nicht nur auf Ihrem Computer.
-====
+*Drei Vorteile von OneDrive:*
+
+. *Sicherheit:* Wenn Ihr Computer kaputt geht oder gestohlen wird, sind Ihre Fotos und Dokumente trotzdem sicher – sie sind ja in OneDrive gespeichert.
+. *Überall zugreifbar:* Sie können am Tablet Ihrer Enkelin Ihre Fotos anschauen, ohne den Computer mitnehmen zu müssen.
+. *Immer aktuell:* Wenn Sie eine Datei auf dem Computer ändern, ist die aktuelle Version automatisch auch auf Ihrem Tablet oder Smartphone verfügbar.
+
+*So funktioniert das Speichern in OneDrive:*
+
+. Sie speichern eine Datei in den OneDrive-Ordner (im Datei-Explorer sichtbar)
+. Ihr Computer lädt die Datei automatisch über das Internet hoch
+. Die Datei ist nun sicher gespeichert und auf allen Ihren Geräten verfügbar
 
 OneDrive ist in Windows 11 eingebaut. Im *Datei-Explorer* erscheint OneDrive als eigener Bereich in der linken Navigationsleiste.
 
+[IMPORTANT]
+====
+OneDrive ist *kein Ersatz* für Ihren Computer. Ihre Dateien auf dem Computer bleiben weiterhin dort – OneDrive ist eine zusätzliche Sicherheitskopie in der Cloud. Beide Orte haben denselben Inhalt.
+====
+
 [NOTE]
 ====
-Für OneDrive benötigen Sie ein Microsoft-Konto (kostenlos). Der Kursleiter hilft beim Einrichten, falls noch keines vorhanden ist.
+Für OneDrive benötigen Sie ein Microsoft-Konto (kostenlos, z. B. eine Outlook- oder Hotmail-Adresse). Der Kursleiter hilft beim Einrichten, falls noch keines vorhanden ist.
+====
+
+==== Theorie: OneDrive im Browser aufrufen
+
+Sie können auf Ihre OneDrive-Dateien auch über den *Webbrowser* zugreifen – ohne den Datei-Explorer, und sogar von einem fremden Computer aus.
+
+Die Adresse lautet: `onedrive.live.com`
+
+*Warum ist das nützlich?*
+
+* Sie sind bei einer Freundin und möchten ein Dokument zeigen – kein eigener Computer nötig
+* Sie sind im Urlaub und müssen kurz etwas nachschauen
+* Ihr Computer funktioniert gerade nicht – die Dateien sind trotzdem zugänglich
+
+*So melden Sie sich an:*
+
+. Öffnen Sie den Browser (z. B. Microsoft Edge)
+. Tippen Sie in die Adressleiste: `onedrive.live.com`
+. Drücken Sie kbd:[Enter]
+. Geben Sie Ihre *E-Mail-Adresse* (Microsoft-Konto) und Ihr *Passwort* ein
+. Klicken Sie auf *Anmelden*
+  ** Ihre Dateien und Ordner erscheinen – genau wie im Datei-Explorer
+
+[TIP]
+====
+Wenn Sie auf dem eigenen Computer arbeiten, sind Sie meist schon automatisch angemeldet. Der Login ist vor allem nötig, wenn Sie an einem fremden Gerät sind.
+====
+
+[NOTE]
+====
+Denken Sie daran, sich am Ende *abzumelden*, wenn Sie einen fremden Computer verwenden: oben rechts auf Ihren Namen klicken → *Abmelden*.
 ====
 
 ---
 
-==== Übung 18 – Ordner «Kurs» nach OneDrive kopieren
+==== Übung 20 – Ordner «Kurs» nach OneDrive kopieren
 
 *Ziel:* Einen Ordner in OneDrive speichern.
 
@@ -578,7 +754,7 @@ Für OneDrive benötigen Sie ein Microsoft-Konto (kostenlos). Der Kursleiter hil
 
 ---
 
-==== Übung 19 – OneDrive im Browser aufrufen
+==== Übung 21 – OneDrive im Browser aufrufen
 
 *Ziel:* OneDrive über den Browser aufrufen und die hochgeladene Datei sehen.
 
@@ -605,6 +781,8 @@ OneDrive im Browser ist praktisch, wenn Sie an einem fremden Computer arbeiten u
 * [x] Fenster verwalten und zwischen Programmen wechseln
 * [x] WLAN verbinden und im Internet surfen
 * [x] Ordner und Dateien im Datei-Explorer verwalten
+* [x] Sinnvolle Dateinamen vergeben und Ordner strukturieren
+* [x] USB-Stick anschliessen, Datei darauf speichern und sicher entfernen
 * [x] Dokument erstellen, speichern und wieder öffnen
 * [x] Ordner in OneDrive speichern und im Browser aufrufen
 

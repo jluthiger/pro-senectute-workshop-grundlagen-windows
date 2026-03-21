@@ -21,17 +21,34 @@ Requires `asciidoctor` to be installed (`sudo apt-get install -y asciidoctor` on
 ## Repository Structure
 
 - `docs/` — AsciiDoc source files (`.adoc`) and PDF handouts
-- `photos/` — Workshop screenshots and photos
 - `.github/workflows/asciidoctor.yml` — Builds and deploys to GitHub Pages on push to `main`
 - `build/` — Generated HTML output (not committed, produced by CI)
 
 ## Content Structure
 
 Workshop spans 2 days (3 hours each, 09:00–12:00) and covers:
-- WLAN connection setup
+
+### Day 1
+
+#### Focus on "Get to know Windows 11"
+
+- Learn Windows 11
 - Start menu customization
+- WLAN connection setup
+- Handling application windows
+
+### Day 2
+
+#### Focus on "Manage and save files"
+
+- Storage options
+    - Local Hard-Drive
+    - USB-Stick
+    - OneDrive
+        - Explain One Drive
 - File organization
-- Document storage and OneDrive integration
+    - Concepts of some naming strategies
+- Document storage
 
 ## License
 

@@ -511,7 +511,7 @@ Gelöschte Dateien landen zuerst im *Papierkorb* auf dem Desktop – sie sind no
 
 . Bleiben Sie im Ordner *Dokumente*.
 . Klicken Sie mit der *rechten Maustaste* auf eine beliebige Datei (falls vorhanden).
-  ** Falls keine Datei vorhanden: Der Kursleiter stellt eine Beispieldatei bereit.
+  ** Falls keine Datei vorhanden ist, können Sie eine Beispieldatei xref:mein-setup.pdf[hier] herunterladen.
 . Wählen Sie *Kopieren*.
 . Doppelklicken Sie auf den Ordner *Kurs*, um ihn zu öffnen.
 . Klicken Sie mit der *rechten Maustaste* in den leeren Bereich.

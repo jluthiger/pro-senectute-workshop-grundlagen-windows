@@ -511,7 +511,7 @@ Gelöschte Dateien landen zuerst im *Papierkorb* auf dem Desktop – sie sind no
 
 . Bleiben Sie im Ordner *Dokumente*.
 . Klicken Sie mit der *rechten Maustaste* auf eine beliebige Datei (falls vorhanden).
-  ** Falls keine Datei vorhanden ist, können Sie eine Beispieldatei xref:mein-setup.pdf[hier] herunterladen.
+  ** Falls keine Datei vorhanden ist, können Sie eine Beispieldatei hier herunterladen.
 . Wählen Sie *Kopieren*.
 . Doppelklicken Sie auf den Ordner *Kurs*, um ihn zu öffnen.
 . Klicken Sie mit der *rechten Maustaste* in den leeren Bereich.
@@ -527,7 +527,7 @@ Gelöschte Dateien landen zuerst im *Papierkorb* auf dem Desktop – sie sind no
 . Klicken Sie mit der *rechten Maustaste* auf die soeben eingefügte Datei im Ordner «Kurs».
 . Wählen Sie *Umbenennen*.
   ** Der Dateiname wird blau markiert.
-. Tippen Sie den neuen Namen: `Mein erstes Dokument`
+. Tippen Sie den neuen Namen: `Mein-erstes-Dokument`
 . Drücken Sie kbd:[Enter].
 
 [NOTE]
@@ -544,7 +544,7 @@ Die Dateiendung (z. B. `.txt`, `.docx`) muss nicht geändert werden. Windows war
 . Stecken Sie den *USB-Stick* in den USB-Anschluss des Computers.
   ** Nach kurzer Zeit erscheint ein neues Laufwerk im Datei-Explorer (z. B. «USB-Laufwerk (E:)»).
 . Öffnen Sie den *Datei-Explorer* und navigieren Sie zu *Dokumente* → *Kurs*.
-. Klicken Sie mit der *rechten Maustaste* auf die Datei *Mein erstes Dokument*.
+. Klicken Sie mit der *rechten Maustaste* auf die Datei *Mein-erstes-Dokument*.
 . Wählen Sie *Kopieren*.
 . Klicken Sie links in der Navigation unter «Dieser PC» auf das *USB-Laufwerk*.
 . Klicken Sie mit der *rechten Maustaste* in den leeren Bereich.
@@ -561,7 +561,7 @@ Die Dateiendung (z. B. `.txt`, `.docx`) muss nicht geändert werden. Windows war
 
 *Ziel:* Eine Datei in den Papierkorb verschieben und danach wiederherstellen.
 
-. Klicken Sie mit der *rechten Maustaste* auf *Mein erstes Dokument* im Ordner «Kurs».
+. Klicken Sie mit der *rechten Maustaste* auf *Mein-erstes-Dokument* im Ordner «Kurs».
 . Wählen Sie *Löschen*.
   ** Die Datei verschwindet aus dem Ordner.
 . Schliessen Sie den Datei-Explorer (×-Schaltfläche).

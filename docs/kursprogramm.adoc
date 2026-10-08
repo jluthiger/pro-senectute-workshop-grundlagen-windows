@@ -1,8 +1,7 @@
 = Windows 11 Grundkurs – Kursprogramm
 :author_1: Pro Senectute Luzern
 :author_2: Jürg Luthiger
-:revnumber: 1.1
-
+:revnumber: 1.2
 :lang: de
 :toc:
 :toc-title: Inhaltsverzeichnis
@@ -15,15 +14,15 @@
 
 === Zielgruppe
 
-Seniorinnen und Senioren mit kaum oder keiner PC-Erfahrung, die Windows 11 grundlegend kennenlernen möchten.
+Seniorinnen und Senioren mit wenig Erfahrung mit dem PC, die Windows 11 grundlegend kennenlernen möchten.
 
 === Lernziele
 
 Nach dem Kurs können die Teilnehmenden:
 
+* Eine WLAN-Verbindung herstellen und den Browser öffnen
 * Den Windows 11 Desktop und die Taskleiste selbstständig bedienen
 * Apps über das Startmenü starten und Fenster verwalten
-* Eine WLAN-Verbindung herstellen und den Browser öffnen
 * Ordner und Dateien im Datei-Explorer anlegen und verwalten
 * Dokumente erstellen, speichern und wieder öffnen
 * Dateien in OneDrive ablegen
@@ -40,7 +39,7 @@ Nach dem Kurs können die Teilnehmenden:
 | Tag | Inhalt | Zeit
 
 | *Tag 1*
-| Windows 11 kennenlernen (Desktop, Fenster, WLAN)
+| Windows 11 kennenlernen (WLAN, Desktop, Fenster)
 | 09:00–12:00
 
 | *Tag 2*
@@ -60,7 +59,41 @@ Nach dem Kurs können die Teilnehmenden:
 
 ---
 
-=== Modul 1: Windows 11 Grundlagen (09:15–10:30)
+=== Modul 1: WLAN einrichten und Windows 11 Grundlagen (09:15–10:30)
+
+==== Theorie: WLAN-Verbindung
+
+Das *WLAN-Symbol* befindet sich unten rechts in der Taskleiste (sieht aus wie Funkwellen oder ein Schild). Darüber können Sie:
+
+* Sehen, ob Sie verbunden sind
+* Sich mit einem WLAN-Netzwerk verbinden
+
+[TIP]
+====
+*WLAN* (auch «WiFi» genannt) ist eine kabellose Internetverbindung. Das Passwort erhalten Sie vom Kursleiter oder steht auf Ihrem Router.
+====
+
+---
+
+==== Übung 1 – WLAN-Status prüfen und verbinden
+
+*Ziel:* WLAN-Symbol finden, Verbindungsstatus prüfen und mit dem Kursnetzwerk verbinden.
+
+. Schauen Sie unten rechts in die Taskleiste.
+. Klicken Sie auf das *WLAN-Symbol* (Funkwellen-Symbol oder Schild).
+  ** Es öffnet sich das Schnelleinstellungen-Fenster.
+. Prüfen Sie: Steht ein Häkchen bei WLAN? Ist ein Netzwerkname sichtbar?
+. Ist kein Netzwerk verbunden: Klicken Sie auf den *Pfeil* neben WLAN.
+  ** Eine Liste verfügbarer Netzwerke erscheint.
+. Wählen Sie das Kursnetzwerk aus, geben Sie das Passwort ein und klicken Sie auf *Verbinden*.
+. Drücken Sie kbd:[Escape], um das Fenster zu schliessen.
+
+[NOTE]
+====
+Sobald WLAN verbunden ist, erscheint das Symbol als ausgefülltes Fächer-Symbol. Erst jetzt funktioniert der Browser mit Internet.
+====
+
+---
 
 ==== Theorie: Desktop
 
@@ -93,7 +126,7 @@ Das *Startmenü* öffnet sich mit Klick auf das Windows-Symbol oder die kbd:[Win
 
 ---
 
-==== Übung 1 – Desktop erkunden
+==== Übung 2 – Desktop erkunden
 
 *Ziel:* Den Desktop kennenlernen und 5 Elemente benennen.
 
@@ -113,7 +146,7 @@ Wenn etwas nicht sichtbar ist, kann der Kursleiter helfen.
 
 ---
 
-==== Übung 2 – Startmenü öffnen und Rechner starten
+==== Übung 3 – Startmenü öffnen und Rechner starten
 
 *Ziel:* Das Startmenü bedienen und ein Programm starten.
 
@@ -127,7 +160,7 @@ Wenn etwas nicht sichtbar ist, kann der Kursleiter helfen.
 
 ---
 
-==== Übung 3 – Apps im Startmenü anheften
+==== Übung 4 – Apps im Startmenü anheften
 
 *Ziel:* Drei Apps im Startmenü anheften, damit sie immer sichtbar sind.
 
@@ -145,7 +178,7 @@ Angeheftete Apps erscheinen oben im Startmenü und sind schnell erreichbar.
 
 ---
 
-==== Übung 4 – Uhrzeit und Datum ablesen
+==== Übung 5 – Uhrzeit und Datum ablesen
 
 *Ziel:* Uhrzeit und Datum in der Taskleiste lesen.
 
@@ -158,7 +191,7 @@ Angeheftete Apps erscheinen oben im Startmenü und sind schnell erreichbar.
 
 ---
 
-==== Übung 5 – App in der Taskleiste anheften
+==== Übung 6 – App in der Taskleiste anheften
 
 *Ziel:* Eine App dauerhaft in der Taskleiste platzieren, damit sie immer mit einem Klick erreichbar ist.
 
@@ -183,19 +216,7 @@ Um eine App wieder aus der Taskleiste zu entfernen: Rechtsklick auf das Symbol i
 
 ---
 
-=== Modul 2: WLAN, Fenster und Browser (10:45–11:30)
-
-==== Theorie: WLAN-Verbindung
-
-Das *WLAN-Symbol* befindet sich unten rechts in der Taskleiste (sieht aus wie Funkwellen oder ein Schild). Darüber können Sie:
-
-* Sehen, ob Sie verbunden sind
-* Sich mit einem WLAN-Netzwerk verbinden
-
-[TIP]
-====
-*WLAN* (auch «WiFi» genannt) ist eine kabellose Internetverbindung. Das Passwort erhalten Sie vom Kursleiter oder steht auf Ihrem Router.
-====
+=== Modul 2: Fenster und Browser (10:45–11:30)
 
 ==== Theorie: Fenster verstehen
 
@@ -222,26 +243,6 @@ Die Grösse lässt sich ändern, indem man den *Fensterrand* mit der Maus zieht.
 [TIP]
 ====
 *Snap-Funktion:* Ziehen Sie ein Fenster an den rechten oder linken Bildschirmrand – Windows rastet es automatisch auf halber Bildschirmbreite ein.
-====
-
----
-
-==== Übung 6 – WLAN-Status prüfen und verbinden
-
-*Ziel:* WLAN-Symbol finden, Verbindungsstatus prüfen und mit dem Kursnetzwerk verbinden.
-
-. Schauen Sie unten rechts in die Taskleiste.
-. Klicken Sie auf das *WLAN-Symbol* (Funkwellen-Symbol oder Schild).
-  ** Es öffnet sich das Schnelleinstellungen-Fenster.
-. Prüfen Sie: Steht ein Häkchen bei WLAN? Ist ein Netzwerkname sichtbar?
-. Ist kein Netzwerk verbunden: Klicken Sie auf den *Pfeil* neben WLAN.
-  ** Eine Liste verfügbarer Netzwerke erscheint.
-. Wählen Sie das Kursnetzwerk aus, geben Sie das Passwort ein und klicken Sie auf *Verbinden*.
-. Drücken Sie kbd:[Escape], um das Fenster zu schliessen.
-
-[NOTE]
-====
-Sobald WLAN verbunden ist, erscheint das Symbol als ausgefülltes Fächer-Symbol. Erst jetzt funktioniert der Browser mit Internet.
 ====
 
 ---
@@ -351,11 +352,11 @@ Das Mausrad: Drehen Sie das Rad nach vorne, um nach oben zu scrollen, nach hinte
 
 *Was haben wir heute gelernt?*
 
+* [x] WLAN verbinden und Internetverbindung herstellen
 * [x] Desktop, Taskleiste und Startmenü kennen
 * [x] Apps starten und im Startmenü anheften
 * [x] App in der Taskleiste anheften für schnellen Zugriff
 * [x] Fenster öffnen, verschieben, einrasten und wechseln
-* [x] WLAN verbinden und Internetverbindung herstellen
 * [x] Webseiten aufrufen und im Browser navigieren
 
 *Hausaufgabe (freiwillig):* Öffnen Sie zu Hause das Startmenü und starten Sie zwei verschiedene Apps.
@@ -367,7 +368,7 @@ Das Mausrad: Drehen Sie das Rad nach vorne, um nach oben zu scrollen, nach hinte
 === Rückblick Tag 1 (09:00–09:15)
 
 * Fragen zu Tag 1 klären
-* Kurze Wiederholung: Desktop, Startmenü, Fenster, WLAN
+* Kurze Wiederholung: WLAN, Desktop, Startmenü, Fenster
 * Tagesprogramm vorstellen
 
 ---
@@ -834,4 +835,105 @@ OneDrive im Browser ist praktisch, wenn Sie an einem fremden Computer arbeiten u
 
 | kbd:[Entf]
 | Ausgewählte Datei in den Papierkorb verschieben
+|===
+
+---
+
+== Legende – Wichtige Begriffe
+
+Die wichtigsten Fachbegriffe aus diesem Kursprogramm, kurz erklärt (alphabetisch).
+
+[cols="2,5", options="header"]
+|===
+| Begriff | Erklärung
+
+| *Adressleiste*
+| Das lange Eingabefeld oben im Browser. Hier tippen Sie die Webadresse ein.
+
+| *App / Programm*
+| Eine Anwendung auf dem PC, z. B. Microsoft Edge, Rechner oder Editor. «App» und «Programm» bedeuten dasselbe.
+
+| *Browser*
+| Programm zum Anzeigen von Webseiten. Unter Windows 11 heisst er *Microsoft Edge*.
+
+| *Cloud*
+| Speicherplatz im Internet auf den Computern eines Anbieters (z. B. Microsoft). Dateien sind von überall erreichbar.
+
+| *Datei*
+| Ein einzelnes Dokument, Bild, Musikstück usw., das auf dem PC gespeichert ist.
+
+| *Datei-Explorer*
+| Das Programm zum Verwalten von Dateien und Ordnern. Ordner-Symbol in der Taskleiste oder kbd:[Windows+E].
+
+| *Desktop*
+| Der Startbildschirm von Windows 11 – die digitale Arbeitsfläche mit Hintergrundbild.
+
+| *Doppelklick*
+| Zweimal schnell hintereinander mit der linken Maustaste klicken. Öffnet eine Datei oder einen Ordner.
+
+| *Editor (Notepad)*
+| Einfaches Textprogramm von Windows für Texte ohne Formatierung.
+
+| *Fenster*
+| Der Bereich, in dem eine App angezeigt wird. Kann verschoben, vergrössert, minimiert oder geschlossen werden.
+
+| *Internet*
+| Weltweites Netzwerk, das Computer miteinander verbindet. Grundlage für Webseiten, E-Mail und Cloud.
+
+| *Laufwerk*
+| Ein Speichermedium, z. B. die eingebaute Festplatte («C:») oder ein USB-Stick («E:»).
+
+| *Link*
+| Ein anklickbarer Text oder ein Bild auf einer Webseite, der zu einer anderen Seite führt. Meist farbig oder unterstrichen.
+
+| *Microsoft-Konto*
+| Ihr persönliches Benutzerkonto bei Microsoft (E-Mail-Adresse + Passwort). Nötig für OneDrive.
+
+| *OneDrive*
+| Der Cloud-Speicher von Microsoft. Dateien darin sind auf allen Ihren Geräten und unter `onedrive.live.com` verfügbar.
+
+| *Ordner*
+| Behälter für Dateien oder weitere Ordner – wie ein Aktenordner im Büro.
+
+| *Papierkorb*
+| Sammelstelle für gelöschte Dateien (auf dem Desktop). Dateien sind erst nach «Papierkorb leeren» endgültig weg.
+
+| *Rechtsklick*
+| Mit der rechten Maustaste klicken. Öffnet ein Menü mit weiteren Optionen (Kontextmenü).
+
+| *Scrollen*
+| Den Inhalt einer Seite nach oben oder unten bewegen – mit dem Mausrad.
+
+| *Snap (Einrasten)*
+| Ein Fenster an den Bildschirmrand ziehen – Windows ordnet es automatisch auf halber Bildschirmbreite an.
+
+| *Speichern*
+| Ein Dokument dauerhaft auf dem PC, dem USB-Stick oder in OneDrive ablegen. Tastenkürzel: kbd:[Strg+S].
+
+| *Startmenü*
+| Menü mit allen Apps. Öffnen mit Klick auf das Windows-Symbol oder der kbd:[Windows]-Taste.
+
+| *Symbol (Icon)*
+| Kleines Bild, das eine App, eine Datei oder einen Ordner darstellt.
+
+| *Tab (Reiter)*
+| Mehrere Webseiten gleichzeitig in einem Browser-Fenster geöffnet halten – wie Registerkarten in einem Ordner.
+
+| *Taskleiste*
+| Die Leiste am unteren Bildschirmrand mit Startschaltfläche, Suchfeld, angehefteten Apps sowie Uhr, WLAN und Lautstärke.
+
+| *Tastenkürzel*
+| Tastenkombination, die eine Aktion auslöst, z. B. kbd:[Strg+C] für Kopieren.
+
+| *USB-Stick*
+| Kleines, tragbares Speichermedium. Vor dem Herausziehen immer «auswerfen».
+
+| *Webadresse (URL)*
+| Die Adresse einer Webseite, z. B. `www.srf.ch`. Wird in die Adressleiste des Browsers eingetippt.
+
+| *Webseite*
+| Eine Seite im Internet, die im Browser angezeigt wird.
+
+| *WLAN (WiFi)*
+| Kabellose Verbindung zum Internet. Symbol unten rechts in der Taskleiste (Funkwellen).
 |===

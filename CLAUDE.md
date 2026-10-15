@@ -13,7 +13,7 @@ The build is automated via GitHub Actions on push to `main`. To build locally:
 ```bash
 mkdir -p build
 find docs -name "*.adoc" -exec asciidoctor -D build {} \;
-cp docs/*.pdf build
+cp docs/*.pdf docs/*.docx docs/*.zip build
 ```
 
 Requires `asciidoctor` to be installed (`sudo apt-get install -y asciidoctor` on Ubuntu, `brew install asciidoctor` on macOS).

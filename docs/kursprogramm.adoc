@@ -445,6 +445,17 @@ Ein guter Dateiname hilft Ihnen, Dateien schnell wiederzufinden – auch nach Wo
 Legen Sie für jedes Thema einen eigenen Ordner an – zum Beispiel «Finanzen», «Arzt», «Familie». So behalten Sie den Überblick.
 ====
 
+[TIP]
+====
+*Zusatzübung zum Sortieren:* Laden Sie die link:Uebungsdateien.zip[Übungsdateien (ZIP)^] herunter. Sie enthalten Belege, Briefe und Fotos.
+
+. Öffnen Sie im Datei-Explorer den Ordner *Downloads*.
+. Klicken Sie mit der *rechten Maustaste* auf `Uebungsdateien.zip` und wählen Sie *Alle extrahieren…* → *Extrahieren*.
+. Erstellen Sie die Ordner «Finanzen», «Familie» und «Fotos».
+. Verschieben Sie jede Datei in den passenden Ordner.
+. Finden Sie die Datei, deren Name eine der Regeln oben verletzt?
+====
+
 ==== Theorie: USB-Stick
 
 Ein *USB-Stick* (auch «Memorystick» oder «Flashdrive» genannt) ist ein kleines, tragbares Speichermedium.
@@ -512,7 +523,7 @@ Gelöschte Dateien landen zuerst im *Papierkorb* auf dem Desktop – sie sind no
 
 . Bleiben Sie im Ordner *Dokumente*.
 . Klicken Sie mit der *rechten Maustaste* auf eine beliebige Datei (falls vorhanden).
-  ** Falls keine Datei vorhanden ist, können Sie eine Beispieldatei hier herunterladen.
+  ** Falls keine Datei vorhanden ist, können Sie eine Beispieldatei link:Beleg-Strom.pdf[hier^] herunterladen.
 . Wählen Sie *Kopieren*.
 . Doppelklicken Sie auf den Ordner *Kurs*, um ihn zu öffnen.
 . Klicken Sie mit der *rechten Maustaste* in den leeren Bereich.
@@ -534,6 +545,11 @@ Gelöschte Dateien landen zuerst im *Papierkorb* auf dem Desktop – sie sind no
 [NOTE]
 ====
 Die Dateiendung (z. B. `.txt`, `.docx`) muss nicht geändert werden. Windows warnt Sie, falls Sie sie versehentlich ändern.
+====
+
+[TIP]
+====
+Möchten Sie das Umbenennen nochmals üben? Laden Sie die Datei link:neu.docx[neu.docx^] herunter – ein typisch schlechter Dateiname. Geben Sie ihr einen sinnvollen Namen, z. B. `Packliste_Familie.docx`.
 ====
 
 ---
@@ -703,13 +719,15 @@ OneDrive ist *kein Ersatz* für Ihren Computer. Ihre Dateien auf dem Computer bl
 [NOTE]
 ====
 Für OneDrive benötigen Sie ein Microsoft-Konto (kostenlos, z. B. eine Outlook- oder Hotmail-Adresse). Der Kursleiter hilft beim Einrichten, falls noch keines vorhanden ist.
+
+Mit der Checkliste link:mein-setup.pdf[Mein Setup (PDF)^] können Sie notieren, welchen Cloud-Dienst und welches Konto Sie verwenden.
 ====
 
 ==== Theorie: OneDrive im Browser aufrufen
 
 Sie können auf Ihre OneDrive-Dateien auch über den *Webbrowser* zugreifen – ohne den Datei-Explorer, und sogar von einem fremden Computer aus.
 
-Die Adresse lautet: `onedrive.live.com`
+Die Adresse lautet: https://onedrive.live.com[onedrive.live.com^]
 
 *Warum ist das nützlich?*
 
